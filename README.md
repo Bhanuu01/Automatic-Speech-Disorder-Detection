@@ -1,5 +1,5 @@
-<h1 align="center">🧠 DysarthroNet</h1>
-<h3 align="center">Automatic Speech Disorder Detection using In-Domain Data Augmentation</h3>
+
+<h1 align="center">Automatic Speech Disorder Detection using In-Domain Data Augmentation</h1>
 <p align="center"><i>Presented at SPCOM 2024</i></p>
 
 ---
