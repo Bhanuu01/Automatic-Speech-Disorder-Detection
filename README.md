@@ -37,7 +37,3 @@ For academic queries or collaboration opportunities, please reach out to:
 🔗 [LinkedIn](https://www.linkedin.com/in/bhanujakarumuru)
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:86A8E7,100:91EAE4&height=100&section=footer" />
-</p>
